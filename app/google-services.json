@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294589107031",
+    "project_id": "pushtest-c144e",
+    "storage_bucket": "pushtest-c144e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294589107031:android:ca76ed64c4ce9746894c12",
+        "android_client_info": {
+          "package_name": "com.example.jeremycomposegeopubnub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294589107031-ugisfkr6pp31su384au1i0iqg28ulcr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjmexUKxC9Xf0tGpTQvA8oZ69j9hG7ry4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294589107031-ugisfkr6pp31su384au1i0iqg28ulcr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
